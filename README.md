@@ -40,16 +40,27 @@ pip install -r requirements.txt
 
 ### **MNIST**: 
 * **Cnn**. This project using simple CNN.
+
 * Epoch 0 
 
 ![!MNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/mn.png)
-* Epoch 40 ![!MNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/mn1.png)
-* Epoch 100 ![!MNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/mn2.png)
+* Epoch 40 
+
+![!MNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/mn1.png)
+* Epoch 100 
+
+![!MNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/mn2.png)
 
 ### **Fashion MNIST**: 
 * **Cnn**. This project using simple CNN.
 
+* Epoch 0
+
 ![!FashionMNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/mf.png)
+* Epoch 40
+
 ![!FashionMNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/mf1.png)
+* Epoch 100
+
 ![!FashionMNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/mf2.png)
  
