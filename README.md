@@ -41,14 +41,14 @@ pip install -r requirements.txt
 ### **MNIST**: 
 * **Cnn**. This project using simple CNN.
 
-![!MNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/imgs/mn.png)
-![!MNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/imgs/mn1.png)
-![!MNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/imgs/mn2.png)
+![!MNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/mn.png)
+![!MNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/mn1.png)
+![!MNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/mn2.png)
 
 ### **Fashion MNIST**: 
 * **Cnn**. This project using simple CNN.
 
-![!FashionMNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/imgs/mf.png)
-![!FashionMNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/imgs/mf1.png)
-![!FashionMNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/imgs/mf2.png)
+![!FashionMNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/mf.png)
+![!FashionMNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/mf1.png)
+![!FashionMNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/mf2.png)
  
