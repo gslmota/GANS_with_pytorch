@@ -63,4 +63,8 @@ pip install -r requirements.txt
 * Epoch 100
 
 ![!FashionMNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/mf2.png)
+
+# References:
+* IA Expert Academy: [IA Expert Academy](https://iaexpert.academy/)
+
  
